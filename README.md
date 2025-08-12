@@ -50,7 +50,7 @@ Plots comparing:
   - LSTM-CNN one-step predictions
   - LSTM-CNN rolling forecast predictions
 
-  
+  ![Image](https://github.com/user-attachments/assets/835d3bab-31b0-4eca-ac7e-44f7ba33a63f)
 
 ## 🧠 Code Structure
 
@@ -86,6 +86,8 @@ Plots comparing:
   Plots actual vs predicted prices for ARIMA and LSTM-CNN models.
 
   Model results
+
+  ![Image](https://github.com/user-attachments/assets/62716bc3-7384-4907-872f-d7c99f3190b4)
 
 
 ## 📊 Key Insights
