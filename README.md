@@ -13,7 +13,7 @@ We also implement **rolling forecasting** for realistic multi-step predictions.
 ## 📂 Dataset
 - **Source:** [Yahoo Finance](https://finance.yahoo.com/)
 - **Ticker:** `AAPL` (Apple Inc.)
-- **Period:** 2020-01-01 → 2024-01-01
+- **Period:** 2020-01-01 → 2025-01-01
 - **Feature Used:** Closing Price (`Close` column)
 
 ---
